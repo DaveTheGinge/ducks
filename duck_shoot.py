@@ -72,4 +72,6 @@ def set_duck_normal():
     duck.image = 'duck0'
     duck.topright = 0, randint(10, HEIGHT-300)
 
+
 pgzrun.go()
+print("Ruby is ready to fetch...")
